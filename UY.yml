@@ -100,7 +100,7 @@ dns:
 proxies:
   - {
       "type": "ss",
-      "name": "HT_UY1",
+      "name": "HT_UY12",
       "server": "179.27.200.28",
       "port": 989,
       "cipher": "aes-256-cfb",
