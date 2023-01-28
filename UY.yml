@@ -104,5 +104,5 @@ proxies:
       "server": "179.27.200.28",
       "port": 989,
       "cipher": "aes-256-cfb",
-      "password": "f8f7aCzcPKbsF8p3",
+      "password": "f8f7aCzcPKbsF8p",
     }
