@@ -100,8 +100,8 @@ dns:
 proxies:
   - {
       "type": "ss",
-      "name": "HT_AT",
-      "server": "185.180.12.81",
+      "name": "HT.UY",
+      "server": "179.27.200.28",
       "port": 989,
       "cipher": "aes-256-cfb",
       "password": "f8f7aCzcPKbsF8p3",
