@@ -5,14 +5,14 @@ mixed-port: 7890
 mode: Rule
 proxies:
   - cipher: chacha20-ietf-poly1305
-    name: 🇬🇧_GB_英国_1_13@24
+    name: 🇬🇧_GB_英国_1_13
     password: OPIGHSeIZVBS7hDX
     port: 443
     server: grampfzin.uksouth.cloudapp.azure.com
     type: ss
   - alterId: "0"
     cipher: auto
-    name: 🇺🇸_US_美国_5_1@26
+    name: 🇺🇸_US_美国_5_1
     network: ws
     port: 443
     server: cvywfavasdc.cymlr.xyz
