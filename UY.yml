@@ -6,11 +6,12 @@ log-level: silent
 external-controller: 127.0.0.1:9090
 
 proxies:
+
   - {
-      name: 🇺🇸 2,
-      server: 184.170.213.204,
-      port: 443,
-      type: ss,
-      cipher: chacha20-ietf-poly1305,
-      password: dqlr7JCgDrOK,
+      "type": "ss",
+      "name": "UY_🇺🇾H",
+      "server": "179.27.200.28",
+      "port": 989,
+      "cipher": "aes-256-cfb",
+      "password": "f8f7aCzcPKbsF8p3",
     }
