@@ -2,8 +2,14 @@ allow-lan: true
 external-controller: 0.0.0.0:9090
 log-level: info
 mixed-port: 7890
-mode: Global
+mode: Rule
 proxies:
+  - cipher: chacha20-ietf-poly1305
+    name: 🇬🇧_GB_英国_1_13@24
+    password: OPIGHSeIZVBS7hDX
+    port: 443
+    server: grampfzin.uksouth.cloudapp.azure.com
+    type: ss
   - alterId: "0"
     cipher: auto
     name: 🇺🇸_US_美国_5_1@26
@@ -17,3 +23,4 @@ proxies:
       headers:
         host: cvywfavasdc.cymlr.xyz
       path: /ksebupo
+  - alterId: "0"
