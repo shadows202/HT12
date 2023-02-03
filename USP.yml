@@ -1,0 +1,19 @@
+allow-lan: true
+external-controller: 0.0.0.0:9090
+log-level: info
+mixed-port: 7890
+mode: Global
+proxies:
+  - alterId: "0"
+    cipher: auto
+    name: 🇺🇸_US_美国->🇸🇬_SG_新加坡_1_2@2
+    network: ws
+    port: 443
+    server: xjp4h.mayaa.ml
+    tls: true
+    type: vmess
+    uuid: 82d5ea73-8002-4319-cd3c-29d1560bd290
+    ws-opts:
+      headers:
+        host: xjp4h.mayaa.ml
+      path: /dsadsa1dsadsa33434
