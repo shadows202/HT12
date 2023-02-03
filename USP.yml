@@ -4,9 +4,10 @@ log-level: info
 mixed-port: 7890
 mode: Global
 proxies:
+
   - alterId: "0"
     cipher: auto
-    name: 🇺🇸_US_美国->🇸🇬_SG_新加坡_1_2@2
+    name: 🇺🇸_US
     network: ws
     port: 443
     server: xjp4h.mayaa.ml
