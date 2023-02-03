@@ -2,17 +2,17 @@ allow-lan: true
 external-controller: 0.0.0.0:9090
 log-level: info
 mixed-port: 7890
-mode: Rule
+mode: Global
 proxies:
   - cipher: chacha20-ietf-poly1305
-    name: 🇬🇧_GB_英国_1_13
+    name: 🇬🇧_GB
     password: OPIGHSeIZVBS7hDX
     port: 443
     server: grampfzin.uksouth.cloudapp.azure.com
     type: ss
   - alterId: "0"
     cipher: auto
-    name: 🇺🇸_US_美国_5_1
+    name: 🇺🇸_US
     network: ws
     port: 443
     server: cvywfavasdc.cymlr.xyz
