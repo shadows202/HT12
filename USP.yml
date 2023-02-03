@@ -4,8 +4,7 @@ log-level: info
 mixed-port: 7890
 mode: Global
 proxies:
-
-    - alterId: "0"
+  - alterId: "0"
     cipher: auto
     name: 🇺🇸_US_美国_5_1@26
     network: ws
